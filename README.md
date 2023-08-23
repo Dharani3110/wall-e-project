@@ -1,2 +1,2 @@
 # wall-e-project
-Dummy project
+Dummy project 2
